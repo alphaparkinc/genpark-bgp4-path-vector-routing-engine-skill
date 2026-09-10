@@ -1,0 +1,17 @@
+{
+  "name": "genpark-bgp4-path-vector-routing-engine-skill",
+  "version": "1.0.0",
+  "description": "Border Gateway Protocol (BGP-4) path-vector routing engine featuring AS-Path loop detection, multi-peer RIB tables, and policy decision filtering.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bgp4",
+    "path-vector",
+    "routing-protocols",
+    "autonomous-systems",
+    "rib"
+  ],
+  "dependencies": []
+}
